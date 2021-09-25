@@ -1,3 +1,16 @@
+2021-09-24         Arnold D. Robbins     <arnold@skeeve.com>
+	
+	* gawktexi.in (Building the Documentation): Improve the text,
+	add info on building the HTML doc.  Thanks to Antonio Columbo
+	for the encouragement.
+	(Distribution Contents): Update with more files.
+
+2021-09-23         Arnold D. Robbins     <arnold@skeeve.com>
+
+	* gawktexi.in (Strong Regexp Constants): Document that they
+	can be assigned with -v. Thanks to J Naman <jnaman2@gmail.com>
+	for the report.
+
 2021-09-22         Arnold D. Robbins     <arnold@skeeve.com>
 
 	* gawktexi.in (Compiling from Git): New node.
